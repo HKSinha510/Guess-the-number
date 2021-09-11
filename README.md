@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to Guess-the-number, Guess-the--number is a short program made in java, you hav the guess the number between 0-100
+Welcome to Guess-the-number, Guess-the-number is a short program made in java, you hav the guess the number between 0-100
 
 ## Folder Structure
 
